@@ -16,7 +16,7 @@ class VoiceTypingWindowActivatable(GObject.Object, Gedit.WindowActivatable):
         print "VoiceTypingPlugin: Start listening keyboard input."
         l_id = self.window.connect("key_press_event", self.do_key_pressed)
         self.window.VoiceTypingPluginHandlerId = l_id
-        pygame.mixer.music.load("typewriter-key-1.wav")
+        pygame.mixer.music.load("/home/jiang/Share/gedit/plugins/typewriter-key-1.wav")
 
     def do_deactivate(self):
         print "VoiceTypingPlugin: Stop listening keyboard input."
