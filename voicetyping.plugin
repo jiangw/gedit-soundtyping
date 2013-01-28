@@ -2,8 +2,8 @@
 Loader=python
 Module=voicetyping
 IAge=3
-Name=Voice Typing
-Description=A Python plugin for Voice Typing
+Name=Sound Typing
+Description=A Python plugin for Sound Typing
 Authors=J.River <wj11hk@gmail.com>
 Copyright=Copyright © 2013 J.River <wj11hk@gmail.com>
 Website=http://www.gedit.org
