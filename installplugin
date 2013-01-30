@@ -2,6 +2,6 @@
 # install gedit plugin
 #
 
-cp voicetyping.plugin voicetyping.py ~/.local/share/gedit/plugins/
-echo "copy voicetyping.plugin and voicetyping.py to ~/.local/share/gedit/plugins"
+cp soundtyping.plugin soundtyping.py ~/.local/share/gedit/plugins/
+echo "copy soundtyping.plugin and soundtyping.py to ~/.local/share/gedit/plugins"
 echo "OK"
