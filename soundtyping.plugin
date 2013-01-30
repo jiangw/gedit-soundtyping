@@ -1,6 +1,6 @@
 [Plugin]
 Loader=python
-Module=voicetyping
+Module=soundtyping
 IAge=3
 Name=Sound Typing
 Description=A Python plugin for Sound Typing
